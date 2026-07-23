@@ -1,5 +1,3 @@
----
-
 ### 📝 1. Deskripsi Repositori (Untuk kolom "About" di GitHub)
 Pilih salah satu yang paling sesuai:
 
